@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=D3-1
+Removed Pin From Net: NetName=NetC14_2 Pin=IC3-29
+Removed Pin From Net: NetName=NetC14_1 Pin=k11-3
+Change Component Footprint: Designator=C3 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C5 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C6 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C7 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C8 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C9 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C10 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C11 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C12 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C13 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C22 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C23 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C24 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=C25 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R1 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R7 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R9 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R10 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R11 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R12 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R13 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R14 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R19 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R20 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R23 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R24 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Component Footprint: Designator=R25 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Added Component: Designator=C14(FP-CRCW0805-e3-IPC_A)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MAL215097101E3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAL215097101E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIOD-DO-41-P-2_V
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=NetC14_1 Pin=D3-1
+Added Pin To Net: NetName=NetC14_1 Pin=IC3-29
+Added Pin To Net: NetName=NetC14_2 Pin=k11-3
+Added Member To Class: ClassName=controller Member=Component C14 100n
+Add Class Member: Failed to add class member : Component D1 1N4007-T

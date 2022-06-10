@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=CAPPRD1000W80D2200H3700
+Added Room: Name=bout
+Added Room: Name=controller
+Added Room: Name=input
+Added Room: Name=led

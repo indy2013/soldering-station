@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C14 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Added Component: Designator=D1(DIOAD1408W86L464D236)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//1N4007-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Rectron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4007-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "583-1N4007-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=583-1N4007-T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=RE1-A2
+Added Pin To Net: NetName=NetD1_2 Pin=T1-1
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=input Member=Component D1 1N4007

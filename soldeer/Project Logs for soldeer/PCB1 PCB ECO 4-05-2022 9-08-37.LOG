@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C4 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=CAPAE1050X1050N
+Change Component Footprint: Designator=C2 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=RCE7U2J103J3K1H03B
+Change Component Footprint: Designator=C5 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=RCE7U2J103J3K1H03B
+Change Component Footprint: Designator=C10 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=RCE7U2J103J3K1H03B
+Change Component Comment : Designator=C2 Old Comment=10U 50V New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=10U 50V New Comment=10uF
+Change Component Comment : Designator=C10 Old Comment=10U 50V New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=100u 25V New Comment=100uF
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\FTPCKXUT" ("\FTPCKXUT")
+Change component parameters: Designator = "C5" ("C5"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\YEFXZVPU" ("\YEFXZVPU")
+Change component parameters: Designator = "C10" ("C10"); Footprint = "FP-CRCW0805-e3-IPC_A"; UniqueID = "\CDQNUTDV" ("\CDQNUTDV")
+Added Room: Name=bout
+Added Room: Name=controller
+Added Room: Name=input
+Added Room: Name=led

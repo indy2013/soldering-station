@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R100 NewDesignator=R21
+Added Room: Name=bout
+Added Room: Name=controller
+Added Room: Name=input
+Added Room: Name=led
