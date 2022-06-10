@@ -1,0 +1,10 @@
+indypenders2013@gmail.com
+Ip23022002
+C:\Users\Public\Documents\Altium\AD21\Library\ExportIntLib
+C:\Users\Administrator\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\Administrator\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
